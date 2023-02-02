@@ -1,5 +1,6 @@
-# Zluqe: The Ultimate Free Discord Bot Host with Unmatched Support!
+[![Logo Image](https://us-east-1.tixte.net/uploads/your-parents.wants.solutions/full-logo.png)](https://zluqe.com)
 
+# Zluqe, Free Discord Bot Hosting!
 Zluqe is a wonderful Discord bot host who puts the needs of the community first. It provides a complete framework for developers to exercise their creativity with support for Java, JavaScript, and Discord Python. But Zluqe stands out for its superior support network. The Zluqe team puts users first and goes above and beyond to make sure that their experience is smooth. Zluqe provides a welcoming and encouraging atmosphere for you to realize your Discord bot ideas, regardless of your level of experience as a developer or where you are at right now.
 
 ## Come check us out!
